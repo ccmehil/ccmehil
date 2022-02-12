@@ -11,9 +11,10 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
 - 🔭 I’m currently working on [Star Coords](https://github.com/ccmehil/star_coords)
 - 🌱 I’m currently learning [Python](https://www.python.org)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ccmehil "")
 
-### My Setup and Tools
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ccmehil "")
 
 #### Hardware
 ![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white "Apple Silicon") ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white "Raspberry Pi")
@@ -21,14 +22,14 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
 #### Coding
 ![Visual Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Code") ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white "Xcode") ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white "Git") ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "GitHub") 
 
-### More about me
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white "Youtube")](http://www.youtube.com/user/ccmehil) [![Skillshare](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white "Skillshare")](https://skl.sh/2xA7nZs) You can find several videos on Youtube where I share making different Apple Shortcuts as well as a whole course on Skillshare.
+#### Creative Me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/ccmehil/)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me a Coffee")](https://www.buymeacoffee.com/ccmehil)
+
+#### Technical Me
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white "Youtube")](http://www.youtube.com/user/ccmehil) [![Skillshare](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white "Skillshare")](https://skl.sh/2xA7nZs)
 
 #### Example Apple Shortcuts
 [![Voice Log](assets/voicelog.jpeg "voicelog")](https://www.icloud.com/shortcuts/b422f45944e042689e228dc8a983842a) [![Text Log](assets/textlog.jpeg "textlog")](https://www.icloud.com/shortcuts/35e15d03d7174f07a9a2e224802a42cd) [![Log Entries](assets/logentries.jpeg "logentries")](https://www.icloud.com/shortcuts/52d24139da604d50ae98bc95b30d02dd) [![Subscriber Count](assets/subscribers.jpeg "subscribercount")](https://www.icloud.com/shortcuts/d7707c1ed9d54969bbcec424e1f678bb)
-
-### For a more creative view
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/ccmehil/) is probably where you'll find most of my creative stuff or be able to [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me a Coffee")](https://www.buymeacoffee.com/ccmehil)
 
 
 <!--
