@@ -1,3 +1,4 @@
+[![Years Badge](https://badges.pufler.dev/years/ccmehil)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/ccmehil/ccmehil)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/ccmehil)](https://badges.pufler.dev)
 ### Hi there 👋
 
 A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process for all platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the SAP Community & Influencer programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge.
@@ -6,7 +7,7 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
 - 🌱 I’m currently learning [Python](https://www.python.org)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ccmehil "")
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ccmehil "")
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccmehil "")
 
 ### My Setup and Tools
 
@@ -44,6 +45,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ccmehil&theme=vue "")
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccmehil "")
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ccmehil "")
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ccmehil "")
 -->
