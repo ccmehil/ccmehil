@@ -31,11 +31,12 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue "Python") ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white "Swift") ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5") ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "Javascript") ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white "JSON") ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")
 
 ### More about me
-One of my favorite things to do is create Apple Shortcuts and share many of those on [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white "Youtube")](http://www.youtube.com/user/ccmehil) and I made a course you can find on [![Skillshare](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white "Skillshare")](https://skl.sh/2xA7nZs)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white "Youtube")](http://www.youtube.com/user/ccmehil) [![Skillshare](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white "Skillshare")](https://skl.sh/2xA7nZs) You can find several videos on Youtube where I share making different Apple Shortcuts as well as a whole course on Skillshare.
 
-#### Apple Shortcuts
-- [![Voice Log](assets/voicelog.jpg "voicelog")](https://www.icloud.com/shortcuts/b422f45944e042689e228dc8a983842a)
+#### Example Apple Shortcuts
+[![Voice Log](assets/voicelog.jpeg "voicelog")](https://www.icloud.com/shortcuts/b422f45944e042689e228dc8a983842a) [![Text Log](assets/textlog.jpeg "textlog")](https://www.icloud.com/shortcuts/35e15d03d7174f07a9a2e224802a42cd) [![Log Entries](assets/logentries.jpeg "logentries")](https://www.icloud.com/shortcuts/52d24139da604d50ae98bc95b30d02dd) [![Subscriber Count](assets/subscribers.jpeg "subscribercount")](https://www.icloud.com/shortcuts/d7707c1ed9d54969bbcec424e1f678bb)
 
+### For a more creative view
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/ccmehil/) is probably where you'll find most of my creative stuff or be able to [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me a Coffee")](https://www.buymeacoffee.com/ccmehil)
 
 
