@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](http://www.linkedin.com/in/ccmehil) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "Twitter")](https://www.twitter.com/ccmehil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](http://www.linkedin.com/in/ccmehil) [![@ccmehil](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "@ccmehil")](https://www.twitter.com/ccmehil)
 
 A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process for all platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the SAP Community & Influencer programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge.
 
