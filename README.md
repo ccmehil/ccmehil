@@ -13,8 +13,15 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
 
 
 
+##
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ccmehil "")
+
+##
+
+[![SAP Community](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/craig.cmehil?png=true "")](https://people.sap.com/craig.cmehil)
+
+## 
 
 #### Hardware
 ![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white "Apple Silicon") ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white "Raspberry Pi")
