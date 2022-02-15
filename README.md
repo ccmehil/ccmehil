@@ -1,4 +1,4 @@
-[![Updated Badge](https://badges.pufler.dev/updated/ccmehil/ccmehil)](https://badges.pufler.dev) 
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ccmehil/ccmehil/master)
 
 ## Greetings 🎉
 
@@ -9,15 +9,13 @@
 
 A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process for all platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the SAP Community & Influencer programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge.
 
-
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/ccmehil)](https://badges.pufler.dev)
 - 🔭 I’m currently working on [Star Coords](https://github.com/ccmehil/star_coords)
 - 🌱 I’m currently learning [Python](https://www.python.org)
 
 
 
 ##
-![Stats](https://github-readme-stats.vercel.app/api?username=ccmehil "")
+![Stats](https://github-readme-stats.vercel.app/api?username=ccmehil)
 
 ##
 
@@ -41,22 +39,7 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
 #### Example Apple Shortcuts
 [![Voice Log](assets/voicelog.jpeg "voicelog")](https://www.icloud.com/shortcuts/b422f45944e042689e228dc8a983842a) [![Text Log](assets/textlog.jpeg "textlog")](https://www.icloud.com/shortcuts/35e15d03d7174f07a9a2e224802a42cd) [![Log Entries](assets/logentries.jpeg "logentries")](https://www.icloud.com/shortcuts/52d24139da604d50ae98bc95b30d02dd) [![Subscriber Count](assets/subscribers.jpeg "subscribercount")](https://www.icloud.com/shortcuts/d7707c1ed9d54969bbcec424e1f678bb)
 
-
 <!--
-**ccmehil/ccmehil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ccmehil&theme=vue "")
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ccmehil "")
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ccmehil "")
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccmehil "")
