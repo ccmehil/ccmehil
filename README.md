@@ -9,8 +9,10 @@
 
 A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process for all platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the SAP Community & Influencer programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge.
 
-- 🔭 I’m currently working on [Star Coords](https://github.com/ccmehil/star_coords)
-- 🌱 I’m currently learning [Python](https://www.python.org)
+- Currently working on [Star Coords](https://github.com/ccmehil/star_coords) 
+  - ![GitHub last commit](https://img.shields.io/github/last-commit/ccmehil/star_coords) 
+  - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ccmehil/star_coords)
+- Currently learning [![Python](https://img.shields.io/badge/language-python-success)](https://www.python.org)
 
 
 
