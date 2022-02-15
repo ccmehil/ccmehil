@@ -1,8 +1,11 @@
 [![Updated Badge](https://badges.pufler.dev/updated/ccmehil/ccmehil)](https://badges.pufler.dev) 
 
-## Hi there 👋
+## Greetings 🎉
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn")](http://www.linkedin.com/in/ccmehil) [![@ccmehil](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "@ccmehil")](https://www.twitter.com/ccmehil)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ccmehil?style=social)](https://twitter.com/ccmehil)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsFa5KWvW2J6WttDBNRl8-g?style=social)](http://www.youtube.com/user/ccmehil)
+[![Skillshare](https://img.shields.io/badge/SkillShare-Class-f39success "Skillshare")](https://skl.sh/2xA7nZs)
+[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue "LinkedIn")](http://www.linkedin.com/in/ccmehil) 
 
 A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process for all platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the SAP Community & Influencer programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge.
 
@@ -32,7 +35,8 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/ccmehil/)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me a Coffee")](https://www.buymeacoffee.com/ccmehil)
 
 #### Technical Me
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white "Youtube")](http://www.youtube.com/user/ccmehil) [![Skillshare](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white "Skillshare")](https://skl.sh/2xA7nZs)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsFa5KWvW2J6WttDBNRl8-g?style=social)](http://www.youtube.com/user/ccmehil)
+[![Skillshare](https://img.shields.io/badge/SkillShare-Class-f39success "Skillshare")](https://skl.sh/2xA7nZs)
 
 #### Example Apple Shortcuts
 [![Voice Log](assets/voicelog.jpeg "voicelog")](https://www.icloud.com/shortcuts/b422f45944e042689e228dc8a983842a) [![Text Log](assets/textlog.jpeg "textlog")](https://www.icloud.com/shortcuts/35e15d03d7174f07a9a2e224802a42cd) [![Log Entries](assets/logentries.jpeg "logentries")](https://www.icloud.com/shortcuts/52d24139da604d50ae98bc95b30d02dd) [![Subscriber Count](assets/subscribers.jpeg "subscribercount")](https://www.icloud.com/shortcuts/d7707c1ed9d54969bbcec424e1f678bb)
