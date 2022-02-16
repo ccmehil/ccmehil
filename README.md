@@ -1,13 +1,14 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ccmehil/ccmehil/master)
+[![Skillshare](https://img.shields.io/badge/SkillShare-Class-f39success "Skillshare")](https://skl.sh/2xA7nZs)
+[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue "LinkedIn")](http://www.linkedin.com/in/ccmehil) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/ccmehil?style=social)](https://twitter.com/ccmehil)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsFa5KWvW2J6WttDBNRl8-g?style=social)](http://www.youtube.com/user/ccmehil)
 
 ## Greetings 🎉
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ccmehil?style=social)](https://twitter.com/ccmehil)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsFa5KWvW2J6WttDBNRl8-g?style=social)](http://www.youtube.com/user/ccmehil)
-[![Skillshare](https://img.shields.io/badge/SkillShare-Class-f39success "Skillshare")](https://skl.sh/2xA7nZs)
-[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue "LinkedIn")](http://www.linkedin.com/in/ccmehil) 
+A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process on mulitple types of platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the [SAP Community](https://community.sap.com) & [Influencer](https://community.sap.com/programs/influencer-programs) programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge.
 
-A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process for all platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the SAP Community & Influencer programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge.
+## In Progress 🚧
 
 - Currently working on [Star Coords](https://github.com/ccmehil/star_coords) 
   - ![GitHub last commit](https://img.shields.io/github/last-commit/ccmehil/star_coords) 
@@ -17,7 +18,9 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
   - ![GitHub last commit](https://img.shields.io/github/last-commit/ccmehil/ccmehil.github.io) 
   - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ccmehil/ccmehil.github.io)
 
+## Technical Passion 🖥️
 
+Apple Shortcuts are a little passion of mine, here you can check out some of the ones I've created. [Apple Shortcut Gallery](https://github.com/ccmehil/ccmehil.github.io) More can be found on [Youtube](http://www.youtube.com/user/ccmehil) and in my [Skillshare](https://skl.sh/2xA7nZs) course.
 
 ##
 ![Stats](https://github-readme-stats.vercel.app/api?username=ccmehil)
@@ -36,13 +39,6 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
 
 #### Creative Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/ccmehil/)  [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me a Coffee")](https://www.buymeacoffee.com/ccmehil)
-
-#### Technical Me
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsFa5KWvW2J6WttDBNRl8-g?style=social)](http://www.youtube.com/user/ccmehil)
-[![Skillshare](https://img.shields.io/badge/SkillShare-Class-f39success "Skillshare")](https://skl.sh/2xA7nZs)
-
-#### Example Apple Shortcuts
-[![Voice Log](assets/voicelog.jpeg "voicelog")](https://www.icloud.com/shortcuts/b422f45944e042689e228dc8a983842a) [![Text Log](assets/textlog.jpeg "textlog")](https://www.icloud.com/shortcuts/35e15d03d7174f07a9a2e224802a42cd) [![Log Entries](assets/logentries.jpeg "logentries")](https://www.icloud.com/shortcuts/52d24139da604d50ae98bc95b30d02dd) [![Subscriber Count](assets/subscribers.jpeg "subscribercount")](https://www.icloud.com/shortcuts/d7707c1ed9d54969bbcec424e1f678bb)
 
 <!--
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ccmehil "")
