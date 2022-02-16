@@ -13,6 +13,9 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
   - ![GitHub last commit](https://img.shields.io/github/last-commit/ccmehil/star_coords) 
   - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ccmehil/star_coords)
 - Currently learning [![Python](https://img.shields.io/badge/language-python-success)](https://www.python.org)
+- Updating [Personal Pages](https://github.com/ccmehil/ccmehil.github.io) [🔗](https://ccmehil.github.io)
+  - ![GitHub last commit](https://img.shields.io/github/last-commit/ccmehil/ccmehil.github.io) 
+  - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ccmehil/ccmehil.github.io)
 
 
 
