@@ -26,6 +26,11 @@ Apple Shortcuts are a little passion of mine, here you can check out some of the
 
 ### TechTips
 <!-- YOUTUBE:START -->
+- [Tech Tip #14 Battery Charging](https://www.youtube.com/watch?v=J1ITTrIgRZA)
+- [Tech Tip #13 Shortcuts and Apple CarPlay](https://www.youtube.com/watch?v=hx8NvkcTQgI)
+- [Tech Tip #12 Shortcuts for the home worker with kids](https://www.youtube.com/watch?v=yYM1H8srWOA)
+- [Tech Tips - I launched a Skillshare Course!](https://www.youtube.com/watch?v=Gx_Oje4ufMY)
+- [Tech Tip #11 - Version Control and Automatic Updating](https://www.youtube.com/watch?v=hXdh8iZMEeY)
 <!-- YOUTUBE:END -->
 
 ##
