@@ -25,7 +25,7 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
 Apple Shortcuts are a little passion of mine, here you can check out some of the ones I've created. [Apple Shortcut Gallery](https://ccmehil.github.io) More can be found on [Youtube](http://www.youtube.com/user/ccmehil) and in my [Skillshare](https://skl.sh/2xA7nZs) course.
 
 ##
-![Stats](https://github-readme-stats.vercel.app/api?username=ccmehil)
+![Stats](https://github-readme-stats.vercel.app/api?username=ccmehil&show_icons=true)
 
 ##
 
