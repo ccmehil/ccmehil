@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue "LinkedIn")](http://www.linkedin.com/in/ccmehil) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ccmehil?style=social)](https://twitter.com/ccmehil)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsFa5KWvW2J6WttDBNRl8-g?style=social)](http://www.youtube.com/user/ccmehil)
+[![Twitch Status](https://img.shields.io/twitch/status/ccmehil?style=social)](http://www.twitch.tv/ccmehil)
 
 ## Greetings 🎉
 
