@@ -12,6 +12,7 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
 ## In Progress 🚧
 
 - Currently learning [![Python](https://img.shields.io/badge/language-python-success)](https://www.python.org)
+- Reading [Python 3: The Comprehensive Guide](https://www.sap-press.com/python-3_5566/)
 - Currently exploring some of the more intricate game mechanics of [Minecraft](https://www.minecraft.net/en-us)
 
 ## Technical Passion 🖥️
