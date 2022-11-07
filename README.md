@@ -7,7 +7,7 @@
 
 ## Greetings 🎉
 
-A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process on mulitple types of platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the [SAP Community](https://community.sap.com) & [Influencer](https://community.sap.com/programs/influencer-programs) programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge.
+A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process on mulitple types of platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the [SAP Community](https://community.sap.com) & [Influencer](https://community.sap.com/programs/influencer-programs) programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge. Dabbling in <a rel="me" href="https://mastodon.cloud/@ccmehil">Mastodon</a>
 
 ## In Progress 🚧
 
