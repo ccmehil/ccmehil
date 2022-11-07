@@ -2,7 +2,7 @@
 [![Skillshare](https://img.shields.io/badge/SkillShare-Class-f39success "Skillshare")](https://skl.sh/2xA7nZs)
 [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue "LinkedIn")](http://www.linkedin.com/in/ccmehil) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ccmehil?style=social)](https://twitter.com/ccmehil)
-[![Mastodon Follow](https://img.shields.io//mastodon/follow/:id?domain=https%3A%2F%2Fmastodon.social)
+[![Mastodon Follow](https://img.shields.io//mastodon/follow/:id?domain=@ccmehil@mastodon.social)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsFa5KWvW2J6WttDBNRl8-g?style=social)](http://www.youtube.com/user/ccmehil)
 [![Twitch Status](https://img.shields.io/twitch/status/ccmehil?style=social)](http://www.twitch.tv/ccmehil)
 
