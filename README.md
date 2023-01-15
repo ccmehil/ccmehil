@@ -13,7 +13,7 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
 ## In Progress 🚧
 
 - Currently exploring some of the more intricate game mechanics of [Minecraft](https://www.minecraft.net/en-us)
-- Currently learning [![SwiftUI]([https://img.shields.io/badge/framework-electron-success](https://img.shields.io/badge/swiftui-5.7.2-blue))]([https://www.electronjs.org](https://www.swift.org/documentation/))
+- Currently learning [![SwiftUI](https://img.shields.io/badge/swiftui-5.7.2-blue)](https://www.swift.org/documentation/)
 - Currently learning [![Electron](https://img.shields.io/badge/framework-electron-success)](https://www.electronjs.org)
 
 ## Technical Passion 🖥️
