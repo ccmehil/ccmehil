@@ -1,6 +1,4 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ccmehil/ccmehil/master)
-[![Skillshare](https://img.shields.io/badge/SkillShare-Class-f39success "Skillshare")](https://skl.sh/2xA7nZs)
-[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue "LinkedIn")](http://www.linkedin.com/in/ccmehil) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ccmehil?style=social)](https://twitter.com/ccmehil)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109301404115388830?domain=https%3A%2F%2Fmastodon.cloud&style=social)](https://mastodon.cloud/@ccmehil)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsFa5KWvW2J6WttDBNRl8-g?style=social)](http://www.youtube.com/user/ccmehil)
@@ -9,6 +7,9 @@
 ## Greetings 🎉
 
 A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process on mulitple types of platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the [SAP Community](https://community.sap.com) & [Influencer](https://community.sap.com/programs/influencer-programs) programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge. Dabbling in <a rel="me" href="https://mastodon.cloud/@ccmehil">Mastodon</a>
+
+* [![Skillshare](https://img.shields.io/badge/SkillShare-Class-f39success "Skillshare")](https://skl.sh/2xA7nZs)
+* [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue "LinkedIn")](http://www.linkedin.com/in/ccmehil) 
 
 ## In Progress 🚧
 
