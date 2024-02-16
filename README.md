@@ -35,7 +35,7 @@ Apple Shortcuts are a little passion of mine, here you can check out some of the
 
 ##
 
-[![SAP Community](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/craig.cmehil?png=true "")](https://people.sap.com/craig.cmehil)
+[![SAP Community](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/10?png=true "")](https://people.sap.com/craig.cmehil)
 
 ## 
 
