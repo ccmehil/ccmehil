@@ -13,7 +13,7 @@ A developer, writer, wanna be maker, talker - words that describe Craig, but who
 
 ## In Progress 🚧
 
-- Currently learning [![Machine Learning]([https://img.shields.io/badge/swiftui-5.7.2-blue])
+- ![Machine Learning](https://img.shields.io/badge/swiftui-5.7.2-blue)
 
 ## Technical Passion 🖥️
 
