@@ -6,16 +6,14 @@
 
 ## Greetings 🎉
 
-A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process on mulitple types of platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the [SAP Community](https://community.sap.com) & [Influencer](https://community.sap.com/programs/influencer-programs) programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge. Dabbling in <a rel="me" href="https://mastodon.cloud/@ccmehil">Mastodon</a>
+A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process on mulitple types of platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the [SAP Community](https://community.sap.com) & [Influencer](https://community.sap.com/programs/influencer-programs) programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge. 
 
 * [![Skillshare](https://img.shields.io/badge/SkillShare-Class-f39success "Skillshare")](https://skl.sh/2xA7nZs)
 * [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue "LinkedIn")](http://www.linkedin.com/in/ccmehil) 
 
 ## In Progress 🚧
 
-- Currently exploring some of the more intricate game mechanics of [Minecraft](https://www.minecraft.net/en-us)
-- Currently learning [![SwiftUI](https://img.shields.io/badge/swiftui-5.7.2-blue)](https://www.swift.org/documentation/)
-- Currently learning [![Electron](https://img.shields.io/badge/framework-electron-success)](https://www.electronjs.org)
+- Currently learning [![Machine Learning]([https://img.shields.io/badge/swiftui-5.7.2-blue])
 
 ## Technical Passion 🖥️
 
