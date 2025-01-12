@@ -6,14 +6,11 @@
 
 ## Greetings 🎉
 
-A developer, writer, wanna be maker, talker - words that describe Craig, but who is Craig? Craig is a person driven to interact and communicate, always looking to innovate over the years he's been through all spectrums of the development process on mulitple types of platforms. He's built communities and helped define strategies to communicate and engage. Now he heads the [SAP Community](https://community.sap.com) & [Influencer](https://community.sap.com/programs/influencer-programs) programs striving to enable all members of the SAP ecosystem to seek help and exchange knowledge. 
+Community Enthusiast and Technology Innovator, Striving to help others achieve! Dynamic and results-oriented senior executive with over 20 years of experience in driving innovation, community building, and developer relations within the technology sector. Proven track record of leading
+global teams, defining strategic direction, and fostering engagement across diverse communities. Adept at leveraging social media, marketing, and communication strategies to amplify brand presence and drive business growth. Demonstrated commitment to hands-on involvement and leading by example, willing to dive into the work alongside team members to inspire excellence and achieve collective goals.  
 
 * [![Skillshare](https://img.shields.io/badge/SkillShare-Class-f39success "Skillshare")](https://skl.sh/2xA7nZs)
 * [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue "LinkedIn")](http://www.linkedin.com/in/ccmehil) 
-
-## In Progress 🚧
-
-- ![Machine Learning](https://img.shields.io/badge/learning-machine_learning-blue)
 
 ## Technical Passion 🖥️
 
