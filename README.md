@@ -31,10 +31,6 @@ Apple Shortcuts are a little passion of mine, here you can check out some of the
 ##
 ![Stats](https://github-readme-stats.vercel.app/api?username=ccmehil&show_icons=true&count_private=true)
 
-##
-
-[![SAP Community](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/activity/10?png=true "")](https://people.sap.com/craig.cmehil)
-
 ## 
 
 #### Hardware
