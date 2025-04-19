@@ -1,6 +1,4 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ccmehil/ccmehil/master)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ccmehil?style=social)](https://twitter.com/ccmehil)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109301404115388830?domain=https%3A%2F%2Fmastodon.cloud&style=social)](https://mastodon.cloud/@ccmehil)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsFa5KWvW2J6WttDBNRl8-g?style=social)](http://www.youtube.com/user/ccmehil)
 [![Twitch Status](https://img.shields.io/twitch/status/ccmehil?style=social)](http://www.twitch.tv/ccmehil)
 
