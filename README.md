@@ -14,7 +14,7 @@ global teams, defining strategic direction, and fostering engagement across dive
 
 ## Technical Passion 🖥️
 
-Apple Shortcuts are a little passion of mine, here you can check out some of the ones I've created. [Apple Shortcut Gallery](https://ccmehil.github.io) More can be found on [Youtube](http://www.youtube.com/user/ccmehil) and in my [Skillshare](https://skl.sh/2xA7nZs) course.
+Apple Shortcuts are a little passion of mine, here you can check out some of the ones I've created. [Apple Shortcut Gallery](https://ccmehil.github.io) More can be found on [Youtube](http://www.youtube.com/user/ccmehil) and in my [Skillshare](https://skl.sh/2xA7nZs) course. Recently having entered into the realm of game mechanics and explorartion. The game being Minecraft which I have dabbled in over the years off and on, I decided to explore the "datapack" aspects available to developers to see about adding in game enhancements. More to come on that but for now I have also shared some build schematics which can be found [here](https://www.minecraft-schematics.com/user/smurfydragon/) or [here](https://abfielder.com/browse/creator/SmurfyDragon).
 
 ### TechTips
 <!-- YOUTUBE:START -->
