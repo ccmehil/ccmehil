@@ -23,11 +23,6 @@ Apple Shortcuts are a little passion of mine, here you can check out some of the
 - [Tech Tips - I launched a Skillshare Course!](https://www.youtube.com/watch?v=Gx_Oje4ufMY)
 <!-- YOUTUBE:END -->
 
-##
-![Stats](https://github-readme-stats.vercel.app/api?username=ccmehil&show_icons=true&count_private=true)
-
-## 
-
 #### Hardware
 ![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white "Apple Silicon") ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white "Raspberry Pi")
 
@@ -38,7 +33,7 @@ Apple Shortcuts are a little passion of mine, here you can check out some of the
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "Instagram")](https://www.instagram.com/ccmehil/) 
 
 #### Professional Me
-[![Craig's Tabletop Corner](https://img.shields.io/badge/Local-Gaming-Store-Gold)](https://www.craigstabletopcorner.com/) 
+[![Craig's Tabletop Corner](https://img.shields.io/badge/Local_Gaming_Store-Gold)](https://www.craigstabletopcorner.com/) 
 
 <!--
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ccmehil "")
